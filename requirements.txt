@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+passlib[bcrypt]
+pyjwt
+chromadb
+pypdf
+httpx
+google-generativeai
